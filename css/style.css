@@ -351,6 +351,19 @@ input[type=submit]:hover {
   background: #66cb8c;
 }
 
+#html{
+  width: 80%
+}
+#python{
+  width: 75%
+}
+#adobe{
+  width: 86%
+}
+#language{
+  width: 93%;
+}
+
 /*Sections*/
 .section {
   margin-bottom: 30px;
